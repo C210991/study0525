@@ -7,7 +7,7 @@
 <body>
 <h1>入力画面</h1>
 <p>次の画面にデータを渡します。</p>
-
+<p></p>
 <form action="confirm.php" method="POST">
 <label>お名前</label>
 <input type="text" name="name" value="" placeholder="山田 太郎">
